@@ -1,0 +1,110 @@
+body { 
+	/*background-image: url(images/forest2.jpg);
+	background-repeat: no-repeat;
+    background-size: 100% 1080px;
+	background-position: 0px 0%;*/
+	background:		#EAE6E5;
+	font-family:      Georgia, "Times New Roman", Times, serif;
+	font-size:        small;
+	margin:           0px;
+}
+
+#converter{
+	width: 50%;
+	background:	gray;
+	margin:	auto auto;
+	color:	white;
+	margin-top:50px;
+	padding: 20px;
+	font-size:	138%;
+	text-align:	center;
+	border:	3px solid black;
+}
+
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+	background: #E2D9D7;
+    border: 2px solid #985141;
+    border-radius: 4px;
+}
+#result {
+	font-family: "Times New Roman", Times, serif;
+	font-size:	138%;
+}
+
+#number_series {
+	width: 50%;
+	background:	gray;
+	margin:	auto auto;
+	color:	white;
+	margin-top:50px;
+	padding: 20px;
+	font-size:	138%;
+	
+	border:	3px solid black;
+}
+
+#series_print {
+	font-family: "Times New Roman", Times, serif;
+	font-size:	138%;
+}
+
+#magic {
+	width: 50%;
+	background:	gray;
+	margin:	auto auto;
+	color:	white;
+	margin-top:50px;
+	padding: 20px;
+	font-size:	138%;
+	
+	border:	3px solid black;
+}
+
+#buttons {
+	width: 100%;
+     -webkit-box-sizing: border-box;
+}
+
+#output {
+	border: 3px dashed green;
+}
+
+#quoteDisplay{
+	width: 50%;
+	background:	black;
+	margin:	auto auto;
+	color:	white;
+	margin-top:50px;
+	padding: 20px;
+	font-size:	178%;
+	text-align:	center;
+	border:	3px solid red;
+	font-style: italic;
+}
+
+#color_button {
+	margin-left:	73%;
+	margin-top:	5px;
+
+}
+
+.button{
+	height:	30px;
+	width:	30px;
+	border-radius:	30%;
+	border:	2px solid #97746A;
+	margin: 1px;
+}
+
+#footer {
+	background:	black;
+	margin-top: 20px;
+	padding:	.5px 20px .5px 20px;
+	font-family:      "Times New Roman", Times, serif;
+	font-size:	118%;
+	color:	white;
+	clear:	both;
+}
